@@ -1,0 +1,10 @@
+GitHub Commands:
+git init
+git status
+git add  .
+git add -A
+git config user.name (if need)
+git config user.email (if need)
+git commit -m "Assignment 4"
+git remote add origin 
+git push -u origin master
